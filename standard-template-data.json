@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-10-22T03:26:05.418680158Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-10-26T01:25:06.144569285Z",
     "templateType": "trip_a",
     "propertyId": "4745b880-1d17-4e35-ab32-84c53001b546",
     "homepageId": "01a16190-12d8-7d45-bae9-12cf28d3ef2b"
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 23시 이후 입실하실 경우 펜션으로 사전 연락 부탁드립니다.",
-    "usageGuide": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 23시 이후 입실하실 경우 펜션으로 사전 연락 부탁드립니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 10,000원, 아동 1인 10,000원, 유아 무료\n(1박기준)\n※ 개인 침구류 추가 가능\n\n[개별바베큐]\n- 바베큐 형태: 숯불 (전 객실)\n- 이용 요금: 2인 기준 20,000원 (인원 추가 시 5,000원) (1박기준/현장결제)\n- 이용 시간: 입실 후 ~ 22:00\n- 신청 시간: 입실 후 ~ 21:00\n※ 개인 화기 이용 불가\n※ 기본 양념장은 개인 지참\n\n[애견동반]\n- 이용 객실: 전 객실\n- 이용 요금: 1마리 당 10,000원 (10KG 미만) (1박기준/현장결제)\n- 제한 마릿수: 객실 당 최대 2마리까지 가능\n- 제한 사항: 모든 견종 입실 가능\n- 반려동물 허용 종류: 반려견 및 반려묘 가능\n※ 앵무새 가능\n※ 애견 용품은 개인 지참 필수\n※ 애견 동반 시 객실의 훼손, 오염에 주의 부탁드립니다.\n\n[부대시설]\n[카페]\n- 카페&바\n\n[공용시설]\n- 야외 화장실\n\n[편의 및 주변 시설]\n- 엘레베이터 미보유\n- OTT 이용 불가\n- 와이파이 보유\n- 기본 양념 개인 지참\n\n- 바다: 도보 5분 거리 북분리 해수욕장\n\n[주차장]\n- 주차장 보유\n- 주차 대수: 객실 당 1대 주차 가능\n- 전기차 충전기 이용 불가\n\n[픽업]\n- 장소: 인구 버스터미널까지 오시면 가능\n- 사전 예약 필수 (협의 필요)\n\n[교통편]\n- 강원 양양군 현남면 북분안길 149\n- '양양 슬로우스테이 펜션' 을 검색해주세요.",
+    "usageGuide": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 23시 이후 입실하실 경우 펜션으로 사전 연락 부탁드립니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 선결제\n※ 개인 침구류 추가 가능\n\n[개별바베큐]\n- 바베큐 형태: 숯불 (전 객실)\n- 이용 요금: 2인 기준 20,000원 (인원 추가 시 5,000원) (1박기준/현장결제)\n- 이용 시간: 입실 후 ~ 22:00\n- 신청 시간: 입실 후 ~ 21:00\n※ 개인 화기 이용 불가\n※ 기본 양념장은 개인 지참\n\n[애견동반]\n- 이용 객실: 전 객실\n- 이용 요금: 1마리 당 10,000원 (10KG 미만) (1박기준/현장결제)\n- 제한 마릿수: 객실 당 최대 2마리까지 가능\n- 제한 사항: 모든 견종 입실 가능\n- 반려동물 허용 종류: 반려견 및 반려묘 가능\n※ 앵무새 가능\n※ 애견 용품은 개인 지참 필수\n※ 애견 동반 시 객실의 훼손, 오염에 주의 부탁드립니다.\n\n[부대시설]\n[카페]\n- 카페&바\n\n[공용시설]\n- 야외 화장실\n\n[편의 및 주변 시설]\n- 엘레베이터 미보유\n- OTT 이용 불가\n- 와이파이 보유\n- 기본 양념 개인 지참\n\n- 바다: 도보 5분 거리 북분리 해수욕장\n\n[주차장]\n- 주차장 보유\n- 주차 대수: 객실 당 1대 주차 가능\n- 전기차 충전기 이용 불가\n\n[픽업]\n- 장소: 인구 버스터미널까지 오시면 가능\n- 사전 예약 필수 (협의 필요)\n\n[교통편]\n- 강원 양양군 현남면 북분안길 149\n- '양양 슬로우스테이 펜션' 을 검색해주세요.",
     "reservationGuide": "",
     "province": "도/시",
     "city": "시/군/구",
@@ -563,7 +563,7 @@
           {
             "id": "7fb9f668-2f51-4afb-90bf-4788ac917571",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/05/1lKyz4VeMANc.jpg",
-            "sortOrder": 0,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -573,7 +573,7 @@
           {
             "id": "b324f516-3813-4967-a789-fa8f1c74781d",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/05/tTXhwf2UAQrC.jpg",
-            "sortOrder": 0,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -581,7 +581,7 @@
           {
             "id": "75d2f378-8652-4f41-a233-dd4676650f82",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/05/Uo7XqcT5mpKL.jpg",
-            "sortOrder": 1,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -589,7 +589,7 @@
           {
             "id": "8f5ad5fb-d9fe-4236-84e3-68da5d60b199",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/05/1Nkjcpyo98Gl.jpg",
-            "sortOrder": 2,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -597,7 +597,7 @@
           {
             "id": "82cfea9d-9cae-4137-b731-3ee392afcbbc",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/05/CxhjJz73Zq8m.jpg",
-            "sortOrder": 3,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -605,7 +605,7 @@
           {
             "id": "dc918644-d316-4030-9d31-79111d66513a",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/05/crpUhiaVMB6j.jpg",
-            "sortOrder": 4,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -613,7 +613,7 @@
           {
             "id": "7ce2d939-2628-4dd9-80a7-e5933fcaf3e0",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/05/alCTt12VAuZH.jpg",
-            "sortOrder": 5,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -621,7 +621,7 @@
           {
             "id": "0d9259e7-744b-40e2-923d-08e8c0ef91ef",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/05/xfvBErcQWDF8.jpg",
-            "sortOrder": 6,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -629,7 +629,7 @@
           {
             "id": "71adaa23-8c9a-438e-b28e-cf297e169d50",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/05/I0s71TWdYnOt.jpg",
-            "sortOrder": 7,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
